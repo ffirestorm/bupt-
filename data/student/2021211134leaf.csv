@@ -1,0 +1,5 @@
+firstvalue,firstptr,secondvalue,secondptr,nextptr
+115,7,215,3,3
+309,2,-1,-1,4
+408,5,-1,-1,5
+415,4,508,6,0

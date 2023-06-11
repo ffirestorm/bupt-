@@ -1,0 +1,108 @@
+{
+    "administrator": [
+        {
+            "name": "administrator",
+            "course": [
+                {
+                    "start": 8,
+                    "end": 9,
+                    "day": 1,
+                    "week": [],
+                    "name": "毛概",
+                    "location": "教三 211",
+                    "student": ["0123456789","2021211111","0000000000","1111111111"]
+                },
+                {
+                    "start": 10,
+                    "end": 12,
+                    "day": 1,
+                    "week":[],
+                    "name": "数据结构",
+                    "location": "教三 335",
+                    "student": []
+                },
+                {
+                    "start": 13,
+                    "end": 15,
+                    "day": 1,
+                    "week":[],
+                    "name": "计算机网络",
+                    "location": "教三 539",
+                    "student": []
+                },
+                {
+                    "start":8,
+                    "end":10,
+                    "day":3,
+                    "week":[],
+                    "name":"足球",
+                    "location":"田径场",
+                    "student":[]
+                },
+                {
+                    "start":10,
+                    "end":12,
+                    "day":3,
+                    "week":[],
+                    "name":"计算机网络课程设计",
+                    "location":"教三 335",
+                    "student":[]
+                },
+                {
+                    "start":13,
+                    "end":15,
+                    "day":2,
+                    "week":[],
+                    "name":"毛概",
+                    "location":"教四 401",
+                    "student":[]
+                },
+                {
+                    "start":15,
+                    "end":17,
+                    "day":2,
+                    "week":[],
+                    "name":"计算机网络",
+                    "location":"教三 335",
+                    "student":[]
+                },
+                {
+                    "start":8,
+                    "end":22,
+                    "day":4,
+                    "week":[],
+                    "name":"好好学习",
+                    "location":"学一整天",
+                    "student":[]
+                },
+                {
+                    "start":6,
+                    "end":12,
+                    "day":5,
+                    "week":[],
+                    "name":"骑自行车",
+                    "location":"学校",
+                    "student":[]
+                },
+                {
+                    "start":13,
+                    "end":18,
+                    "day":6,
+                    "week":[],
+                    "name":"玩游戏",
+                    "location":"DreamGrove",
+                    "student":[]
+                },
+                {
+                    "start":6,
+                    "end":23,
+                    "day":7,
+                    "week":[],
+                    "name":"玩游戏",
+                    "location":"图书馆",
+                    "student":[]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+{
+    "name": "陈锦鹏",
+    "ID":"2021211137",
+    "activity":[
+        {
+            "0":[
+                    {
+                        "name":"数据结构",
+                        "start":9,
+                        "end": 11,
+                        "day": 3,
+                        "week":[1,3,5,7,9,11,13,15,16],
+                        "location": "教三北门 335",
+                        "exam_week": 17,
+                        "exam_day": 3,
+                        "exam_start": 9,
+                        "exam_end": 11,
+                        "exam_location":"教三335",
+                        "exam_message":"",
+                        "label":"课程"
+                    },
+                    {
+                        "name":"计算机网络",
+                        "start": 15,
+                        "end": 17,
+                        "day": 2,
+                        "week":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                        "location": "教二西门 227",
+                        "exam_week": 17,
+                        "exam_day": 2,
+                        "exam_start": 20,
+                        "exam_end": 22,
+                        "exam_location":"教二 227",
+                        "exam_message":"",
+                        "label":"课程"
+                    },
+                    {
+                        "name":"计算机组成原理",
+                        "start": 15,
+                        "end": 18,
+                        "day": 4,
+                        "week":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                        "location":"教三北门 539" ,
+                        "exam_week": 18,
+                        "exam_day": 4,
+                        "exam_start": 9,
+                        "exam_end": 11,
+                        "exam_location":"教三 539",
+                        "exam_message":"",
+                        "label":"课程"
+                    },
+                    {
+                        "name":"毛概",
+                        "start": 8,
+                        "end": 10,
+                        "day": 4,
+                        "week":[1,2,3,4,5,6,7,8,9,10,11,12,13],
+                        "location": "教四南门 401",
+                        "exam_week": 18,
+                        "exam_day": 4,
+                        "exam_start": 13,
+                        "exam_end": 15,
+                        "exam_location":"教四 401",
+                        "exam_message":"",
+                        "label":"课程"
+                    },
+                    {
+                        "name":"自动机",
+                        "start": 8,
+                        "end": 10,
+                        "day": 5,
+                        "week":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                        "location": "教三北门 539",
+                        "exam_week": 18,
+                        "exam_day": 8,
+                        "exam_start": 10,
+                        "exam_end": 15,
+                        "exam_location":"教三 539",
+                        "exam_message":"",
+                        "label":"课程"
+                    },
+                    {
+                        "name":"英语",
+                        "start": 15,
+                        "end": 17,
+                        "day": 1,
+                        "week":[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16],
+                        "location":"教三北门 110" ,
+                        "exam_week": 18,
+                        "exam_day": 1,
+                        "exam_start": 15,
+                        "exam_end": 17,
+                        "exam_location":"教三 110",
+                        "exam_message":"",
+                        "label":"课程"
+                    }
+                ]
+        },
+        {
+            "1":[
+
+            ]
+        },
+        {    
+            "2":[
+
+            ]
+        },
+        {    
+            "3":[
+
+            ]
+        },
+        {
+            "4": [
+
+            ]
+        }
+        
+    ]
+}
